@@ -31,6 +31,7 @@ Each language was downloaded from the Open Office list. Credits to the people wo
  * Русский
  * Slovensky
  * Svenska
+ * Tiếng Việt
 
 ## Idea
 
@@ -75,6 +76,18 @@ Example output:
 
 Note that `us-ascii` might be reported if there are no unicode (utf-8) characters present in the file.
 
+
+## Contributors
+
+	* Adam St. John
+	* Andrej Kvasnica
+	* Joans Follesø
+	* Kalman Kemenczy
+	* MrTux
+	* Petr Dvořák
+	* Roland Richter
+	* Thomas Feldmann
+	* Valery Kocubinsky
 
 ## Docs
 
